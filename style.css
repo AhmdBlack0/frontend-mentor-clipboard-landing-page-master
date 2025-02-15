@@ -167,7 +167,7 @@ header .first .buttons .btn-two {
 .content .sec-seven .accounts a img:hover {
   color: var(--strong-cyan);
 }
-@media (max-width: 768px) {
+@media (max-width: 991px) {
   header {
     background-image: url("images/bg-header-mobile.png");
     background-repeat: no-repeat;
